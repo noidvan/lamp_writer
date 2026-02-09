@@ -6,11 +6,7 @@
 
 Showcase submission for University of Toronto CSC317 Computer Graphics Fall 2025.
 
-## Personal Information
-* Name: Yifan Lin
-* UtorID: linyif11
-* Student Number: 1009867128
-* Augmented Assignment: A7
+Selected as [**Highlight Submissions**](https://www.dgp.toronto.edu/~joonho/courses/csc317-2025-09/showcase/).
 
 ## Instructions
 
